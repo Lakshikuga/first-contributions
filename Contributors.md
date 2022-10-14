@@ -682,6 +682,7 @@
 - [Gisela Font](https://github.com/gfontsayeras)
 - [Ielin Daisy](https://github.com/ielin)
 - [Paula Zubiri](https://github.com/pzubirir)
+- [Lakshini Kuganandamurthy](https://github.com/Lakshikuga)
 - [Priya_Mandal](https://github.com/priyamandal-21)
 - _rnomals_
 - [Francisco Gongora](https://github.com/FranciscoGongora0101)
